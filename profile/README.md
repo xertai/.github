@@ -14,7 +14,7 @@ You can read more about how our technology works by joining the
 
 # Community
 
-Join our [Discord Server](https://discord.gg/3UysVC2M) to meet individuals interested
+Join our [Discord Server](https://discord.gg/9HS8WCPQ27) to meet individuals interested
 in improving GPU utilization by virtualizing GPU memory and compute. For more complex
 topics, please consider joining the
 [XertAI Community](https://groups.google.com/a/computelify.ai/g/xertai-community).
